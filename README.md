@@ -3,13 +3,12 @@
 # Microverse School > Rails > #3 Micro Reddit
 
 In this project we created a simple micro-reddit system and learn the basics of asociations in Ruby on Rails.
-
-
+So, did the following tasks:
 - Created a User model
 - Created a Post model
 - Created a Comment model
-- Create migration files with table rules
-
+- Adjust associations between models
+- Create migration files with required foreign keys.
 
 ## Built With
 - Ruby on Rails
@@ -28,9 +27,9 @@ In order to run, you need to install RUBY and Rails in your computer. For window
 Then you can clone the project by typing ```https://github.com/jurgen1c/Rails-Micro-Reddit.git```
 
 ### Run app
-- Type ```bundle install``` in the root file of the project. 
-- Type ```rails s``` in the root file of the project.
+- Type ```bundle install``` in the root file of the project.
 - Type  ```rails db:migrate``` in the root file of the project.
+- Type ```rails s``` in the root file of the project.
 
 ## Authors
 
